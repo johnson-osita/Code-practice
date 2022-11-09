@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\germaine\germaine6\bin\Debug\germaine6.exe.config
+C:\Users\user\source\repos\germaine\germaine6\bin\Debug\germaine6.exe
+C:\Users\user\source\repos\germaine\germaine6\bin\Debug\germaine6.pdb
+C:\Users\user\source\repos\germaine\germaine6\obj\Debug\germaine6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\germaine\germaine6\obj\Debug\germaine6.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\germaine\germaine6\obj\Debug\germaine6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\germaine\germaine6\obj\Debug\germaine6.exe
+C:\Users\user\source\repos\germaine\germaine6\obj\Debug\germaine6.pdb
