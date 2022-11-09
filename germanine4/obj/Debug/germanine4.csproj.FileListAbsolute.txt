@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\germaine\germanine4\bin\Debug\germanine4.exe.config
+C:\Users\user\source\repos\germaine\germanine4\bin\Debug\germanine4.exe
+C:\Users\user\source\repos\germaine\germanine4\bin\Debug\germanine4.pdb
+C:\Users\user\source\repos\germaine\germanine4\obj\Debug\germanine4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\germaine\germanine4\obj\Debug\germanine4.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\germaine\germanine4\obj\Debug\germanine4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\germaine\germanine4\obj\Debug\germanine4.exe
+C:\Users\user\source\repos\germaine\germanine4\obj\Debug\germanine4.pdb
