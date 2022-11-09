@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
@@ -27,12 +28,16 @@ namespace best_coding_practices
             //Do not use the same name used in .NET Framework 
             var WriteLine = "jay"; //wrong format
 
+
             //Use prefixes such as “Is”, “Has” or “Can” for boolean properties, it helps give proper meaning to properties
-            var IsAuthenticated = false;
+            bool IsAuthenticated = false; //correct
+            bool login = true //wrong format
+
 
             //do not use prefix or suffix of the class name to name a property
             var firstName = "jay"; //correct
             var userFirstName = "jay"; //wrong format
+
 
             //Use “I” as prefix for Interfaces
             interface IFile
@@ -43,7 +48,30 @@ namespace best_coding_practices
 
             //Avoid all uppercase or lowercase names for properties, variables or method names. Use all uppercase when declaring const variables
 
+            public const int MIN_AGE = 18; //correct
 
-    }
+            // Avoid
+            public const int Min_Age = 18; //wrong format
+
+            //For better code indentation and readability always align the curly braces vertically.
+
+            foreach (string i in word)
+            {                                   //correct
+                if(string.IsUpper)
+                {      
+                }
+            }
+
+            foreach (string i in word)
+            {                              //wrong format
+                if(string.IsUpper)
+                {      
+                    }
+                }
+
+            //Always declare the properties as private so as to achieve Encapsulation and ensure data hiding.
+
+            private int employeeId { get; set; } //correct
+            public int employeeId { get; set; }// wrong format
 }
 }
