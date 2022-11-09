@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\germaine\germaine\bin\Debug\germaine.exe.config
+C:\Users\user\source\repos\germaine\germaine\bin\Debug\germaine.exe
+C:\Users\user\source\repos\germaine\germaine\bin\Debug\germaine.pdb
+C:\Users\user\source\repos\germaine\germaine\obj\Debug\question1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\germaine\germaine\obj\Debug\question1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\germaine\germaine\obj\Debug\question1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\germaine\germaine\obj\Debug\germaine.exe
+C:\Users\user\source\repos\germaine\germaine\obj\Debug\germaine.pdb
